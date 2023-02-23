@@ -12,3 +12,11 @@ del list_one[0:4]
 
 print(list_one[:])
 
+countries = ['Kenya', 'Ghana', 'Ethiopia']
+print(countries[1])
+
+# updating countries list
+countries[2]= 'Nigeria'
+countries.append('Cameroon')
+
+print(countries[:])
