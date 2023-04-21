@@ -22,3 +22,4 @@ countries.append('Cameroon')
 print(countries[:])
 
 
+print(len("Big-O"))
