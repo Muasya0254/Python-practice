@@ -20,3 +20,5 @@ countries[2]= 'Nigeria'
 countries.append('Cameroon')
 
 print(countries[:])
+
+
